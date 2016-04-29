@@ -1,5 +1,6 @@
 # LeetCode-Note
- Author: Yang Song     Institute: Syracuse Univercity
+ Author: Yang Song     
+ Institute: Syracuse Univercity
 
 
 LeetCode Online Judge: https://leetcode.com
